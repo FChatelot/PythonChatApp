@@ -82,6 +82,3 @@ while True:
         sockets_list.remove(notified_socket)
         del client_socket[notified_socket]
         
-#https://www.youtube.com/watch?v=CV7_stUWvBQ&t=148s
-#https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
-#https://code.visualstudio.com/docs/python/python-tutorial
